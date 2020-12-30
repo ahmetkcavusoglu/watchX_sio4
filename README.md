@@ -29,7 +29,7 @@ It's currently very basic.  You can press the lower right button to show the wat
 
 Install these via the Arduino library manager:
 
- - [RTCib](https://github.com/adafruit/RTClib) - for accessing the RTC. This is JeeLab's fantastic real time clock library for Arduino.
+ - [RTClib](https://github.com/adafruit/RTClib) - for accessing the RTC. This is JeeLab's fantastic real time clock library for Arduino.
 
  - [YetAnotherPcInt](https://github.com/paulo-raca/YetAnotherArduinoPcIntLibrary) - for button interrupts.
 
