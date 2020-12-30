@@ -2,6 +2,8 @@
 
 For the fabulous [WatchX](https://watchx.io/) Arduino smart watch.
 
+This is a fork from https://github.com/ahmetkcavusoglu/sio4
+
 ## About
 
 This is just my personal firmware for my WatchX.  It does only what I want it to do and is as much a learning experience as anything.
