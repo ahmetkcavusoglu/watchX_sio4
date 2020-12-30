@@ -29,12 +29,6 @@ Install these via the Arduino library manager:
 
  - [RTCib](https://github.com/adafruit/RTClib) - for accessing the RTC. This is JeeLab's fantastic real time clock library for Arduino.
 
-Works great with Adafruit RTC breakouts:
-
-DS3231 Precision RTC
-PCF8523 RTC
-DS1307 RTC
-
  - [YetAnotherPcInt](https://github.com/paulo-raca/YetAnotherArduinoPcIntLibrary) - for button interrupts.
 
 ## Setting The Time
